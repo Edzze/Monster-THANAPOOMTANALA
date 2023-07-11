@@ -29,7 +29,6 @@ void Thanos::operator++(){
   stones++;
 }
 
-
 void Thanos::snap_finger(monster m[], int n)
 {
   /*if(stones<6) cout<<"Not enough stones"<<endl;

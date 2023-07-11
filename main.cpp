@@ -51,7 +51,6 @@ int main() {
   delete p;*/
 
 
-
   /* Assignment*/
 
   Thanos T;

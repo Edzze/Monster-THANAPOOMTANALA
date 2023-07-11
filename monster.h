@@ -24,7 +24,6 @@ monster(string="New Monster", int=0,int=0);
 };
 
 
-
 void monster::print(){
   cout<<"Monster "<<name;
   cout<<" hp: "<<hp<<" potion: "<<potion<<endl;
